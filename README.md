@@ -29,7 +29,7 @@
 
 ## Latest SW Blocks
 
-<img src="images/Grad_Proj_SWBlocks.drawio_.png" onerror="this.onerror=null; this.src='../images/Grad_Proj_SWBlocks.drawio_.png'" title = "SW blocks" align=right>
+<img src="images/Grad_Proj_SWBlocks.drawio (1).png" onerror="this.onerror=null; this.src='../images/Grad_Proj_SWBlocks.drawio (1).png'" title = "SW blocks" align=right>
 
 ##
 ##
