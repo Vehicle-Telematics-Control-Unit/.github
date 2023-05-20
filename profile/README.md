@@ -10,7 +10,7 @@
 
 - its always preferable to use pre-processor macros
   
-  <img src="images/macros_limitations.png" onerror="this.onerror=null; this.src='../images/macros_limitations.png'" width="300" title = "Always Print Errors" align=right>
+  <img src="images/macros_limitations.png" onerror="this.onerror=null; this.src='./images/macros_limitations.png'" width="300" title = "Always Print Errors" align=right>
 
   - https://www.programiz.com/c-programming/c-preprocessor-macros
   - however, always print errors "voteable" -->
@@ -29,14 +29,14 @@
 
 ## Latest SW Blocks
 
-<img src="images/Grad_Proj_SWBlocks.drawio (1).png" onerror="this.onerror=null; this.src='../images/Grad_Proj_SWBlocks.drawio (1).png'" title = "SW blocks" align=right>
+<img src="images/Grad_Proj_SWBlocks.drawio (1).png" onerror="this.onerror=null; this.src='./images/Grad_Proj_SWBlocks.drawio (1).png'" title = "SW blocks" align=right>
 
 ##
 ##
 
 ## Embedded Architecture
 
-<img src="images/Embedded Architecture.png" onerror="this.onerror=null; this.src='../images/Embedded Architecture.png'" title="Embedded Architecture">
+<img src="images/Embedded Architecture.png" onerror="this.onerror=null; this.src='./images/Embedded Architecture.png'" title="Embedded Architecture">
 
 ## Enjoy coding ❤️❤️❤️👾🤖☕❤️❤️❤️
 
