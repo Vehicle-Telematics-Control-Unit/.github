@@ -27,9 +27,18 @@
 
 - ### you are responsible for updating your own submodule repositories in your main module repository every once in a while "only with stable commits please 😊"
 
+## TCU layered architechture
+
+<img src="images/TCU_archi.png" onerror="this.onerror=null; this.src='../imagesTCU_archi.png'" title = "SW blocks">
+
+##
+##
+
+
+
 ## Latest SW Blocks
 
-<img src="images/Grad_Proj_SWBlocks.drawio_.png" onerror="this.onerror=null; this.src='../images/Grad_Proj_SWBlocks.drawio_.png'" title = "SW blocks" align=right>
+<img src="images/Grad_Proj_SWBlocks.drawio_.png" onerror="this.onerror=null; this.src='../images/Grad_Proj_SWBlocks.drawio_.png'" title = "SW blocks" >
 
 ##
 ##
